@@ -1,1 +1,3 @@
-This is File B " Version2-Branch-feature"
+
+This is File B " Version1-Branch-merge"
+e
